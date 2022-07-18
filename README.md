@@ -2,4 +2,12 @@
 
 # Open Source for IP Hunter for GTM No Load No Blocking.
 
+FEATURES:
+*ANDROIDX
+*BACKGROUND MUSIC
+*IP HUNTER V1 (NEW) AND V2 (BETA)
+*SPLASH SCREEN
+
+USE: AIDE FCS 
+
 -NethPH
